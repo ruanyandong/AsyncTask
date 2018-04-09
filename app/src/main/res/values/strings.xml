@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="image_activity">下载照片</string>
+    <string name="progress_bar">模拟更新进度条</string>
+</resources>
